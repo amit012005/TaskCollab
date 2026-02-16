@@ -26,7 +26,6 @@ const userSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-userSchema.index({ email: 1 });
 userSchema.index({ name: 'text' });
 
 userSchema.pre('save', async function (next) {
