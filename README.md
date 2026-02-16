@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TaskCollab - Real-Time Task Collaboration Platform
 
 A lightweight Trello/Notion-style task management app with real-time sync, built with React, Node.js, Express, MongoDB, and Socket.io.
@@ -252,5 +251,4 @@ npm test
 - Set `FRONTEND_URL` to deployed frontend URL
 - Serve frontend as static files or via separate hosting (Vercel, Netlify, etc.)
 =======
-# TaskCollab
->>>>>>> 9bf538f1738e23449367586ac0e2ef3c09422cff
+
